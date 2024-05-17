@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astha Rajput</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
 
-🌱 I’m currently learning DSA<br><br>💬 Ask me about Mern<br><br>📫 How to reach me astharajput724@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1IL1PPELOfqUgTKqsDNEv4JKleA3jypYB/view?usp=sharing
+🌱 I’m currently learning DSA<br><br>💬 Ask me about Mern<br><br>📫 How to reach me astharajput724@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/14_aLXy2z-K-C0OSAOD91gyEZmxsHgpNE/view?usp=sharing
 
 
 ## 🌐 Socials:
